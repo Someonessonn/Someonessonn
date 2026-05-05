@@ -2,7 +2,7 @@
     (//✚ .  ^) ໒꒱ .!
 
     
-    <img width="735" height="734" alt="Burn 🪽" src="https://github.com/user-attachments/assets/998cf67a-d119-485f-93ed-a3db1ae2dbb4" />
+    
 
     
 𝒲𝒽ℴ ℐ𝓈 ℋ𝒾𝓂?

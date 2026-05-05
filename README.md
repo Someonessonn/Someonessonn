@@ -1,4 +1,3 @@
 𝔟𝔬𝔯𝔫 𝔱𝔬 𝔡𝔦𝔢.
-    (//✚ .  ^) ໒꒱ .!
-
-<!-- Uploading "Ivan Alien Stage GIF - IVAN Alien stage Ivan alien stage - Descobrir e Compartilhar GIFs.gif"... -->
+    (//✚ .  ^) ໒꒱ .
+ <img width="498" height="280" alt="Image" src="https://github.com/user-attachments/assets/643067c3-e00c-4e7a-9b44-389257ebfeb2" />   

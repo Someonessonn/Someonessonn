@@ -1,9 +1,3 @@
-𝔟𝔬𝔯𝔫 𝔱𝔬 𝔡𝔦𝔢.
-    (//✚ .  ^) ໒꒱ .
-    <img width="498" height="281" alt="Image" src="https://github.com/user-attachments/assets/fbaf0989-2be3-4f79-8bad-bb6fd4ae9d9d" />
+𝒯ℋ𝒜𝒯 𝒰𝒮 ℳℰ𝒩𝒜!.
 
-
-ℑ𝔱𝔰 𝔞 𝔑𝔦𝔤𝔥𝔱𝔪𝔞𝔯𝔢..
-
-
-          
+    <img width="1092" height="864" alt="Image" src="https://github.com/user-attachments/assets/774e492b-bb29-49d4-9f68-c59f0848420a" />

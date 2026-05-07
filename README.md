@@ -1,10 +1,3 @@
-<img width="400" height="295" alt="Image" src="https://github.com/user-attachments/assets/ea22a48c-6424-4751-9203-be760d705236" />
+<img width="498" height="280" alt="Image" src="https://github.com/user-attachments/assets/9f0d83f5-daa8-40c1-92a2-22d260992740" />
 
-
-
-
-
-
-
-
-𑣲⋆｡˚
+𝘞𝘌𝘓𝘊𝘖𝘔𝘌 𝘛𝘗𝘖𝘛 𝘞𝘖𝘙𝘓𝘋!!

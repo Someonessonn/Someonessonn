@@ -1,4 +1,4 @@
-<img width="498" height="485" alt="Image" src="https://github.com/user-attachments/assets/9cf2e8c8-7c7b-45ba-9184-304c5c07de92" />  
+<img width="400" height="295" alt="Image" src="https://github.com/user-attachments/assets/ea22a48c-6424-4751-9203-be760d705236" />
 
 
 
@@ -7,9 +7,4 @@
 
 
 
-
-
-
-
-
-𝘠𝘜𝘔 𝘈 𝘎𝘈𝘠 𝘍𝘖𝘜𝘙
+𑣲⋆｡˚

@@ -1,3 +1,2 @@
-<img width="498" height="276" alt="Image" src="https://github.com/user-attachments/assets/bd0da97f-ecab-45d4-9fd4-dad0306ce2cc" />
+<img width="498" height="485" alt="Image" src="https://github.com/user-attachments/assets/3f3bebe6-8fd3-4e96-91cb-ed83afe8be91" />
 
-𝒷ℴ𝓇𝓃 𝓉ℴ 𝒹𝒾ℯ

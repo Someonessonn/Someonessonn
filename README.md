@@ -1,1 +1,1 @@
-<img width="448" height="252" alt="Image" src="https://github.com/user-attachments/assets/5120d8a9-d3cc-4580-9f5b-d52be91b581f" />
+<img width="498" height="281" alt="Image" src="https://github.com/user-attachments/assets/8b97fd89-8d8f-4b2b-9feb-68d440cba5e0" />

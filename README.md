@@ -1,2 +1,3 @@
 
-<img width="736" height="736" alt="𝐼𝑣𝑎𝑛💅" src="https://github.com/user-attachments/assets/f5b94e88-4d6f-42e6-9653-f0a944d4c717" />
+<img width="736" height="736" alt="𝗜𝘃𝗮𝗻" src="https://github.com/user-attachments/assets/4b22fd6f-472d-45a1-9192-7109edfdff94" />
+

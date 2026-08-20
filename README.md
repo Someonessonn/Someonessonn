@@ -1,11 +1,7 @@
- 
+<img width="736" height="436" alt="261279215877913610" src="https://github.com/user-attachments/assets/1406b1c5-0830-442e-8c9e-b2ece55340aa" />
+          <img width="736" height="736" alt="Ivantill😋" src="https://github.com/user-attachments/assets/ecfbf864-8433-4a7f-8630-2a5c95cb1794" />
 
 
 
 
- 
-<img width="328" height="583" alt="Image" src="https://github.com/user-attachments/assets/026922e7-e73c-4c10-a7c6-d8cf3dcda053" />
-
-
-
-  𝑩𝑰𝑮 𝑻𝑰𝑵𝑲𝒀 𝑾𝑰𝑵𝑲𝒀
+<img width="736" height="276" alt="53128470599243068" src="https://github.com/user-attachments/assets/b6061912-4fae-4fb8-aa49-043f1b2ac7fb" />

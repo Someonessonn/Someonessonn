@@ -1,52 +1,48 @@
 <img width="736" height="736" alt="dottore widget 𝜗𝜚 ࣪ ࣭ 𓏲" src="https://github.com/user-attachments/assets/96aaba71-0573-4168-a893-d72701257fec" />
 <svg xmlns="http://w3.org" viewBox="0 0 600 120" width="100%" height="100%">
   <style>
-    .typing-text {
-      font-family: 'Courier New', Courier, monospace, sans-serif;
+    .text-base {
+      font-family: 'Courier New', Courier, monospace;
       font-weight: bold;
-      fill: #5CB0C0; 
-      stroke: #5CB0C0;
-      stroke-width: 0.5px;
-      stroke-dasharray: 1000;
-      stroke-dashoffset: 1000;
+      fill: #5CB0C0; /* Dottore Teal */
     }
 
-    /* Animation for the first sentence */
-    .line1 {
-      font-size: 26px;
-      animation: typeLine1 7s infinite ease-in-out;
+    /* Controls which line shows up */
+    .line-1 { animation: showLine1 8s infinite; }
+    .line-2 { animation: showLine2 8s infinite; }
+    .cursor { animation: blink 0.8s infinite; fill: #5CB0C0; }
+
+    @keyframes showLine1 {
+      0%, 45% { opacity: 1; }
+      50%, 100% { opacity: 0; }
     }
 
-    /* Animation for the second sentence */
-    .line2 {
-      font-size: 24px;
-      animation: typeLine2 7s infinite ease-in-out;
-    }
-
-    @keyframes typeLine1 {
-      0%, 5% { stroke-dashoffset: 1000; fill: transparent; opacity: 1; }
-      40%, 50% { stroke-dashoffset: 0; fill: #5CB0C0; opacity: 1; }
-      55%, 100% { opacity: 0; } /* Disappears to let line 2 show */
-    }
-
-    @keyframes typeLine2 {
-      0%, 50% { stroke-dashoffset: 1000; fill: transparent; opacity: 0; }
-      55% { opacity: 1; }
-      85%, 95% { stroke-dashoffset: 0; fill: #5CB0C0; opacity: 1; }
+    @keyframes showLine2 {
+      0%, 45% { opacity: 0; }
+      50%, 95% { opacity: 1; }
       100% { opacity: 0; }
+    }
+
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
     }
   </style>
 
-  <!-- Background (Deep Navy match for Dottore's mask/coat accents) -->
-  <rect width="100%" height="100%" fill="#152238" rx="8"/>
+  <!-- Dark Mode Borderless Background -->
+  <rect width="100%" height="100%" fill="#152238" rx="6"/>
 
-  <!-- Line 1: So don't keep the devil waiting -->
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="typing-text line1">
-    So don't keep the devil waiting
-  </text>
+  <!-- First Sentence Layer -->
+  <g class="line-1">
+    <text x="50" y="65" class="text-base" font-size="24">So+don't+keep+the+devil+waiting</text>
+    <!-- Blinking Cursor at the end of line 1 -->
+    <rect x="495" y="47" width="12" height="22" class="cursor" />
+  </g>
 
-  <!-- Line 2: friend.. -->
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="typing-text line2">
-    friend..
-  </text>
+  <!-- Second Sentence Layer -->
+  <g class="line-2">
+    <text x="50" y="65" class="text-base" font-size="24">friend..</text>
+    <!-- Blinking Cursor at the end of line 2 -->
+    <rect x="165" y="47" width="12" height="22" class="cursor" />
+  </g>
 </svg>

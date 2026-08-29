@@ -1,2 +1,1 @@
-[![Typing SVG](𝑺𝒐+𝒅𝒐𝒏'𝒕+𝒌𝒆𝒆𝒑+𝒕𝒉𝒆+𝒅𝒆𝒗𝒊𝒍+𝒘𝒂𝒊𝒕𝒊𝒏𝒈+;𝒇𝒓𝒊𝒆𝒏𝒅..)](https://git.io) 
-
+[![Typing SVG](https://demolab.com.)](https://git.io)

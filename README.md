@@ -1,2 +1,2 @@
-<img width="736" height="712" alt="vern" src="https://github.com/user-attachments/assets/075b20f7-4ab9-4032-b489-db543de4ef95" />
-                                                @jambalayah
+<img width="500" height="500" alt="till pink pfp (2)" src="https://github.com/user-attachments/assets/cbffe754-3dd4-43cd-95ca-8e0ced11c118" />
+                                                  @Jambalayah  

@@ -1,1 +1,1 @@
-<img width="871" height="736" alt="˚_ ᵎᵎ ko ideum" src="https://github.com/user-attachments/assets/d51a666e-0404-4736-a924-6c20709b6077" />
+<img width="735" height="736" alt="˚_ ᵎᵎ ideum   jaeyi(1)" src="https://github.com/user-attachments/assets/9be0f093-5907-46ff-ac56-32934d1a9cea" />

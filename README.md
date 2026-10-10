@@ -10,5 +10,6 @@
 			 𝖺𝗅𝗌𝗍 + 𝖡𝗅 + 𝗌𝗅𝖾𝗇𝖽𝗒𝗍𝗎𝖻𝖻𝗂𝖾𝗌 + 𝗉𝗎𝗓𝗓𝗅𝖾𝗁𝖾𝖺𝖽𝗌 + 𝖻𝖿𝖽𝗂 + 𝖺𝗆𝗈𝗇𝗀 𝗎𝗌 + 𝖥𝗎𝗌𝗁𝗂𝗀𝗂 𝖸û𝗀𝗂 𝖿𝖺𝗇𝗌
 						                 𝖽𝗇𝖼 𝗆𝗒 𝗌𝗄𝗂𝗇𝗌 
 									𝗀𝗋𝖺𝖼𝗂𝖺𝗌 𝖿𝗈𝗋 𝗋𝖾𝖺𝖽𝗂𝗇𝗀 𝗇𝖾𝗀𝗋𝗈𝗌
+                                    
 										 
 <img width="1500" height="338" alt="646519075-50ec74bc-fdee-4548-bda0-cfdeb928d6f4" src="https://github.com/user-attachments/assets/aacad483-58b6-4456-bcf0-42b01974c68c" />

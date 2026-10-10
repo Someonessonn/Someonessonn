@@ -1,1 +1,1 @@
-<img width="888" height="736" alt="˚_ ᵎᵎ ideum   jaeyi" src="https://github.com/user-attachments/assets/5ea4510a-4991-4f46-892d-cf74cf0892eb" />
+<img width="736" height="736" alt="~too close proximity" src="https://github.com/user-attachments/assets/af29c805-0115-4b15-9316-ff928134e41e" />

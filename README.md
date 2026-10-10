@@ -2,7 +2,11 @@
 <img width="871" height="736" alt="˚_ ᵎᵎ ideum   jaeyi(1)" src="https://github.com/user-attachments/assets/9be0f093-5907-46ff-ac56-32934d1a9cea" />
                      <img src="<img src="https://komarev.com/ghpvc/…e=flat-square">
                      
-					    "𝐲𝐨𝐮'𝐫𝐞 𝐦𝐲 𝐞𝐚𝐫𝐥𝐲 𝐦𝐨𝐫𝐧𝐢𝐧𝐠 𝐤𝐢𝐬𝐬𝐞𝐬"<br>"𝐚 𝐡𝐮𝐧𝐝𝐫𝐞𝐝 𝐚𝐧𝐬𝐰𝐞𝐫 𝐰𝐢𝐬𝐡𝐞𝐬"
+					    "𝐲𝐨𝐮'𝐫𝐞 𝐦𝐲 𝐞𝐚𝐫𝐥𝐲 𝐦𝐨𝐫𝐧𝐢𝐧𝐠 𝐤𝐢𝐬𝐬𝐞𝐬"  
+						
+				
+				          "𝐚 𝐡𝐮𝐧𝐝𝐫𝐞𝐝 𝐚𝐧𝐬𝐰𝐞𝐫 𝐰𝐢𝐬𝐡𝐞𝐬"  
+						  
                       
 								                   
                         
